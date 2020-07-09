@@ -1,2 +1,2 @@
 # Wac_projects
-This repository contains all the projects i did during the wac internship.
+### This repository contains all the projects i doing during the wac internship.
